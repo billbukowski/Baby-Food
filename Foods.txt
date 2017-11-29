@@ -1,0 +1,45 @@
+Apples:Apricots, Avocados, Bananas, Beets, Black beans, Blackberries, Blueberries, Broccoli, Cannellini beans, Cantaloupe, Carrots, Cauliflower, Chard, Cherries, Figs, Garbanzo beans, Green beans, Honeydew melon, Kale, Kidney beans, Kiwifruit, Lentils, Mangoes, Navy beans, Nectarines, Northern beans, Papaya, Parsnips, Peaches, Pears, Pinto beans, Plums/Prunes, Raspberries, Spinach, Split peas, Strawberries, Summer squash, Sweet peas, Sweet potatoes, Turnips, Winter squash
+Apricots: Apples, Bananas, Blackberries, Blueberries, Carrots, Cherries, Mangoes, Nectarines, Papaya, Peaches, Pears, Plums/Prunes, Raspberries, Strawberries
+Asparagus: Bananas, Carrots, Cauliflower, Parsnips, Spinach, Summer squash, Sweet peas
+Avocados: Apples, Bananas, Beets, Black beans, Blackberries, Blueberries, Cantaloupe, Honeydew melon, Mangoes, Nectarines, Papaya, Peaches, Pears, Pinto beans, Raspberries, Strawberries
+Bananas: Apples, Apricots, Avocados, Blackberries, Blueberries, Broccoli, Cantaloupe, Carrots, Cauliflower, Chard, Cherries, Figs, Green beans, Honeydew melon, Kale, Kiwifruit, Mangoes, Nectarines, Papaya, Parsnips, Peaches, Pears, Plums/Prunes, Raspberries, Spinach, Split peas, Strawberries, Summer squash, Sweet peas, Sweet potatoes, Watermelon, Winter squash
+Beets: Apples, Avocados, Carrots, Edamame, Garbanzo beans, Parsnips, Pears, Sweet potatoes, Winter squash
+Black Beans: Apples, Avocado, Carrots, Mangoes, Papaya, Parsnips, Pears, Summer squash, Sweet potatoes, Winter squash
+Blackberries: Apples, Apricots, Avocados, Bananas, Blueberries, Cantaloupe, Carrots, Figs, Honeydew melon, Kiwifruit, Mangoes, Nectarines, Papaya, Peaches, Pears, Plums/Prunes, Raspberries, Strawberries, Watermelon
+Blueberries: Apples, Apricots, Avocados, Bananas, Blackberries, Cantaloupe, Carrots, Cherries, Figs, Honeydew melon, Kiwifruit, Mangoes, Nectarines, Papaya, Peaches, Pears, Plums/Prunes, Raspberries, Spinach, Strawberries, Watermelon
+Broccoli: Apples, Bananas, Cannellini beans, Carrots, Cauliflower, Garbanzo beans, Lentils, Navy beans, Northern beans, Parsnips, Pears, Plums/Prunes, Sweet potatoes, Winter squash
+Cannellini Beans: Apples, Broccoli, Carrots, Cauliflower, Chard, Kale, Parsnips, Pears, Spinach, Summer squash, Sweet potatoes, Winter squash
+Cantaloupe: Apples, Avocados, Bananas, Blackberries, Blueberries, Honeydew melon, Kiwifruit, Mangoes, Papaya, Pears, Raspberries, Strawberries, Watermelon
+Carrots: Apples, Apricots, Asparagus, Bananas, Beets, Black beans, Blackberries, Blueberries, Broccoli, Cannellini beans, Cauliflower, Chard, Edamame, Garbanzo beans, Green beans, Kale, Kidney beans, Lentils, Navy beans, Northern beans, Parsnips, Pears, Pinto beans, Plums/Prunes, Raspberries, Spinach, Split peas, Summer squash, Sweet peas, Sweet potatoes, Turnips, Winter squash
+Cauliflower: Apples, Asparagus, Bananas, Broccoli, Cannellini beans, Carrots, Chard, Edamame, Garbanzo beans, Kale, Kidney beans, Lentils, Navy beans, Northern beans, Parsnips, Pears, Plums/Prunes, Spinach, Split peas, Sweet peas, Sweet potatoes, Winter squash
+Chard: Apples, Bananas, Cannellini beans, Carrots, Cauliflower, Garbanzo beans, Lentils, Navy beans, Northern beans, Parsnips, Peaches, Pears, Plums/Prunes, Strawberries, Sweet potatoes, Winter squash
+Cherries: Apples, Apricots, Bananas, Blueberries, Kiwifruit, Mangoes, Nectarines, Papaya, Peaches, Pears, Plums/Prunes, Summer squash, Winter squash
+Edamame: Beets, Carrots, Cauliflower, Parsnips, Summer squash, Sweet potatoes, Winter squash
+Figs: Apples, Bananas, Blackberries, Blueberries, Pears, Raspberries, Strawberries
+Garbanzo Beans: Apples, Beets, Broccoli, Carrots, Cauliflower, Chard, Kale, Parsnips, Pears, Spinach, Summer squash, Sweet potatoes, Winter squash
+Green Beans: Apples, Bananas, Carrots, Nectarines, Parsnips, Peaches, Pears, Summer squash, Sweet potatoes, Winter squash
+Honeydew Melon: Apples, Avocados, Bananas, Blackberries, Blueberries, Cantaloupe, Kiwifruit, Mangoes, Papaya, Pears, Raspberries, Strawberries, Watermelon
+Kale: Apples, Bananas, Cannellini beans, Carrots, Cauliflower, Garbanzo beans, Lentils, Navy beans, Northern beans, Parsnips, Peaches, Pears, Plums/Prunes, Strawberries, Sweet potatoes, Winter squash
+Kidney Beans: Apples, Carrots, Cauliflower, Parsnips, Pears, Summer squash, Sweet potatoes, Winter squash
+Kiwifruit: Apples, Bananas, Blackberries, Blueberries, Cantaloupe, Cherries, Honeydew melon, Mangoes, Papaya, Pears, Plums/Prunes, Raspberries, Strawberries, Watermelon 
+Lentils: Apples, Broccoli, Carrots, Cauliflower, Chard, Kale, Parsnips, Pears, Spinach, Summer squash, Sweet potatoes, Winter squash
+Mangoes: Apples, Apricots, Avocados, Bananas, Black beans, Blackberries, Blueberries, Cantaloupe, Cherries, Honeydew melon, Kiwifruit, Nectarines, Papaya, Peaches, Pears, Pinto beans, Plums/Prunes, Raspberries, Strawberries, Watermelon
+Navy Beans: Apples, Broccoli, Carrots, Cauliflower, Chard, Kale, Parsnips, Pears, Spinach, Summer squash, Sweet potatoes, Winter squash
+Nectarines: Apples, Apricots, Avocados, Bananas, Blackberries, Blueberries, Cherries, Green beans, Mangoes, Papaya, Peaches, Pears, Plums/Prunes, Raspberries, Strawberries, Summer squash, Watermelon
+Northern Beans: Apples, Broccoli, Carrots, Cauliflower, Chard, Kale, Parsnips, Pears, Spinach, Summer squash, Sweet potatoes, Winter squash
+Papaya: Apples, Apricots, Avocados, Bananas, Black beans, Blackberries, Blueberries, Cantaloupe, Cherries, Honeydew melon, Kiwifruit, Mangoes, Nectarines, Peaches, Pears, Pinto beans, Plums/Prunes, Raspberries, Strawberries, Watermelon
+Parsnips: Apples, Asparagus, Bananas, Beets, Black beans, Broccoli, Cannellini beans, Carrots, Cauliflower, Chard, Edamame, Garbanzo beans, Green beans, Kale, Kidney beans, Lentils, Navy beans, Northern beans, Pears, Pinto beans, Plums/Prunes, Spinach, Split peas, Summer squash, Sweet peas, Sweet potatoes, Turnips, Winter squash
+Peaches: Apples, Apricots, Avocados, Bananas, Blackberries, Blueberries, Chard, Cherries, Green beans, Kale, Mangoes, Nectarines, Papaya, Pears, Plums/Prunes, Raspberries, Spinach, Strawberries, Summer squash, Watermelon
+Pears: Apples, Apricots, Avocados, Bananas, Beets, Black beans, Blackberries, Blueberries, Broccoli, Cannellini beans, Cantaloupe, Carrots, Cauliflower, Chard, Cherries, Figs, Garbanzo beans, Green beans, Honeydew melon, Kale, Kidney beans, Kiwifruit, Lentils, Mangoes, Navy beans, Nectarines, Northern beans, Papaya, Parsnips, Peaches, Pinto beans, Plums/Prunes, Raspberries, Spinach, Split peas, Strawberries, Summer squash, Sweet peas, Sweet potatoes, Turnips, Winter squash
+Pinto beans: Apples, Avocados, Carrots, Mangoes, Papaya, Parsnips, Pears, Summer squash, Sweet potatoes, Winter squash
+Plums/Prunes: Apples, Apricots, Bananas, Blackberries, Blueberries, Broccoli, Carrots, Cauliflower, Chard, Cherries, Kale, Kiwifruit, Mangoes, Nectarines, Papaya, Parsnips, Peaches, Pears, Raspberries, Spinach, Strawberries
+Raspberries: Apples, Apricots, Avocados, Bananas, Blackberries, Blueberries, Cantaloupe, Carrots, Figs, Honeydew melon, Kiwifruit, Mangoes, Nectarines, Papaya, Peaches, Pears, Plums/Prunes, Spinach, Strawberries, Watermelon
+Spinach: Apples, Asparagus, Bananas, Blueberries, Cannellini beans, Carrots, Cauliflower, Garbanzo beans, Lentils, Navy beans, Northern beans, Parsnips, Peaches, Pears, Plums/Prunes, Raspberries, Strawberries, Sweet potatoes, Winter squash
+Split Peas: Apples, Bananas, Carrots, Cauliflower, Parsnips, Pears, Summer squash, Sweet potatoes, Turnips, Winter squash
+Strawberries: Apples, Apricots, Avocados, Bananas, Blackberries, Blueberries, Cantaloupe, Chard, Figs, Honeydew melon, Kale, Kiwifruit, Mangoes, Nectarines, Papaya, Peaches, Pears, Plums/Prunes, Raspberries, Spinach, Watermelon
+Summer Squash: Apples, Asparagus, Bananas, Black beans, Cannellini beans, Carrots, Cherries, Edamame, Garbanzo beans, Green beans, Kidney beans, Lentils, Navy beans, Nectarines, Northern beans, Parsnips, Peaches, Pears, Pinto beans, Split peas, Sweet peas, Sweet potatoes, Winter squash
+Sweet Peas: Apples, Asparagus, Bananas, Carrots, Cauliflower, Parsnips, Pears, Summer squash, Sweet potatoes, Turnips, Winter squash
+Sweet Potatoes: Apples, Bananas, Beets, Black beans, Broccoli, Cannellini beans, Carrots, Cauliflower, Chard, Edamame, Garbanzo beans, Green beans, Kale, Kidney beans, Lentils, Navy beans, Northern beans, Parsnips, Pears, Pinto beans, Spinach, Split peas, Summer squash, Sweet peas, Turnips
+Turnips: Apples, Carrots, Parsnips, Pears, Sweet peas, Sweet potatoes, Winter squash
+Watermelon: Bananas, Blackberries, Blueberries, Cantaloupe, Honeydew melon, Mangoes, Nectarines, Papaya, Peaches, Raspberries, Strawberries
+Winter Squash: Apples, Bananas, Beets, Black beans, Broccoli, Cannellini beans, Carrots, Cauliflower, Chard, Cherries, Edamame, Garbanzo beans, Green beans, Kale, Kidney beans, Lentils, Navy beans, Northern beans, Parsnips, Pears, Pinto beans, Spinach, Split peas, Summer squash, Sweet peas, Turnips

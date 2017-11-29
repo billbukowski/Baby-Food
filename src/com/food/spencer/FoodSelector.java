@@ -19,7 +19,7 @@ public class FoodSelector {
 	public static List<Food> foods = new ArrayList<Food>();
 	public static void main(String[] args) {
 		getFoods();
-		//hmm...
+		
 //		not going to do it this way anymore...
 //		JFrame f=new JFrame();//creating instance of JFrame  
 //        
